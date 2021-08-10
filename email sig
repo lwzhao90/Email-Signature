@@ -1,223 +1,106 @@
-<table
-  cellpadding="0"
-  cellspacing="0"
-  style="vertical-align: -webkit-baseline-middle; ; font-family: Proxima Nova;"
->
-  <tbody>
-    <tr>
-      <td>
-        <table
-          cellpadding="0"
-          cellspacing="0"
-          style="vertical-align: -webkit-baseline-middle; ; font-family: Proxima Nova;"
-        >
-          <tbody>
-            <tr>
-              <td width="46">
-                <div></div>
-              </td>
-              <td style="padding: 0px; vertical-align: middle;">
-                <h3
-                  style="margin: 0px; font-size: 18px; color: rgb(154, 154, 154);"
-                >
-                  <span>Liwei Zhao</span>
-                </h3>
-                <p
-                  style="margin: 0px; color: rgb(154, 154, 154); font-size: 14px; line-height: 22px;"
-                >
-                  <span>Senior HR Manager</span>
-                </p>
-                <table
-                  cellpadding="0"
-                  cellspacing="0"
-                  style="vertical-align: -webkit-baseline-middle; ; font-family: Proxima Nova; width: 100%;"
-                >
-                  <tbody>
-                    <tr>
-                      <td height="20"></td>
-                    </tr>
-                    <tr>
-                      <td>
-                        <table
-                          cellpadding="0"
-                          cellspacing="0"
-                          style="vertical-align: -webkit-baseline-middle; ; font-family: Proxima Nova; display: inline-block;"
-                        >
-                          <tbody>
-                            <tr style="text-align: center;">
-                              <td width="5">
-                                <div
-                                  style="margin-left: 0px; margin-right: 5px;"
-                                >
-                                  <a
-                                    href="https://www.linkedin.com/in/estebanmunchjones/"
-                                    target="_blank"
-                                  >
-                                    <img
-                                      style="display: inline-block;"
-                                      height="25"
-                                      src="https://firebasestorage.googleapis.com/v0/b/email-signature-1425a.appspot.com/o/linledin-orange-100px!png?alt=media&token=aff70b55-5dc2-4a88-af72-a5973c3ceb6e"
-                                    />
-                                  </a>
-                                </div>
-                              </td>
-                              <td width="5">
-                                <div
-                                  style="margin-left: 0px; margin-right: 5px;"
-                                >
-                                  <a
-                                    href="https://twitter.com/MunchEsteban"
-                                    target="_blank"
-                                  >
-                                    <img
-                                      style="display: inline-block;"
-                                      height="25"
-                                      src="https://firebasestorage.googleapis.com/v0/b/email-signature-1425a.appspot.com/o/twitter-round-orange-100px!png?alt=media&token=8b1770a2-2349-4fad-b861-30c4ab1b38ed"
-                                    />
-                                  </a>
-                                </div>
-                              </td>
-                              <td width="5">
-                                <div
-                                  style="margin-left: 0px; margin-right: 5px;"
-                                >
-                                  <a
-                                    href="https://github.com/estebanmunchjones2019"
-                                    target="_blank"
-                                  >
-                                    <img
-                                      style="display: inline-block;"
-                                      height="25"
-                                      src="https://firebasestorage.googleapis.com/v0/b/email-signature-1425a.appspot.com/o/github-orange-100px!png?alt=media&token=e6fb36e2-35d0-4adc-8b9a-42d5497c9c18"
-                                    />
-                                  </a>
-                                </div>
-                              </td>
-                            </tr>
-                          </tbody>
-                        </table>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td height="5"></td>
-                    </tr>
-                    <tr>
-                      <td
-                        height="1"
-                        style="width: 100%; border-bottom: 1px solid rgb(245, 89, 61); border-left: none; display: block;"
-                      ></td>
-                    </tr>
-                    <tr>
-                      <td height="30"></td>
-                    </tr>
-                  </tbody>
-                </table>
-                <table
-                  cellpadding="0"
-                  cellspacing="0"
-                  style="vertical-align: -webkit-baseline-middle; ; font-family: Proxima Nova;"
-                >
-                  <tbody>
-                    <tr height="25" style="vertical-align: middle;">
-                      <td style="width: 30; vertical-align: middle;">
-                        <table
-                          cellpadding="0"
-                          cellspacing="0"
-                          style="margin: 0 auto; vertical-align: -webkit-baseline-middle; ; font-family: Proxima Nova;"
-                        >
-                          <tbody>
-                            <tr>
-                              <td style="vertical-align: bottom;">
-                                <span width="30" style="display: block;">
-                                  <img
-                                    style="display: inline-block;"
-                                    height="15"
-                                    src="https://firebasestorage.googleapis.com/v0/b/email-signature-1425a.appspot.com/o/mobile-orange-100px!png?alt=media&token=862f77b4-b32d-4789-8ec3-62849b05fdb6"
-                                  />
-                                </span>
-                              </td>
-                            </tr>
-                          </tbody>
-                        </table>
-                      </td>
-                      <td style="padding: 0px; color: rgb(154, 154, 154);">
-                        <a
-                          href="tel:+4407434864952"
-                          style="text-decoration: none; color: rgb(154, 154, 154); font-size: 12px;"
-                        >
-                          <span>+44 07434864952</span>
-                        </a>
-                      </td>
-                    </tr>
-                    <tr height="25" style="vertical-align: middle;">
-                      <td width="30" style="vertical-align: middle;">
-                        <table
-                          cellpadding="0"
-                          cellspacing="0"
-                          style="margin: 0 auto; vertical-align: -webkit-baseline-middle; ; font-family: Proxima Nova;"
-                        >
-                          <tbody>
-                            <tr>
-                              <td style="vertical-align: bottom;">
-                                <span width="30" style="display: block;">
-                                  <img
-                                    style="display: inline-block;"
-                                    height="10"
-                                    src="https://firebasestorage.googleapis.com/v0/b/email-signature-1425a.appspot.com/o/envelope-orange-100px!png?alt=media&token=25c69801-227b-4bd0-90ac-e1e91a4e1db7"
-                                  />
-                                </span>
-                              </td>
-                            </tr>
-                          </tbody>
-                        </table>
-                      </td>
-                      <td style="padding: 0px;">
-                        <a
-                          href="mailto:hi@munchjones.com"
-                          style="text-decoration: none; color: rgb(154, 154, 154); font-size: 12px;"
-                        >
-                          <span>hi@munchjones.com</span>
-                        </a>
-                      </td>
-                    </tr>
-                    <tr height="25" style="vertical-align: middle;">
-                      <td width="30" style="vertical-align: middle;">
-                        <table
-                          cellpadding="0"
-                          cellspacing="0"
-                          style="margin: 0 auto; vertical-align: -webkit-baseline-middle; ; font-family: Arial;"
-                        >
-                          <tbody>
-                            <tr>
-                              <td style="vertical-align: bottom">
-                                <span width="30" style="display: block;">
-                                  <img
-                                    style="display: inline-block;"
-                                    height="15"
-                                    src="https://firebasestorage.googleapis.com/v0/b/email-signature-1425a.appspot.com/o/globe-orange-100px!png?alt=media&token=32dd1425-9b95-4bb1-81d4-4d237df466f3"
-                                  />
-                                </span>
-                              </td>
-                            </tr>
-                          </tbody>
-                        </table>
-                      </td>
-                      <td style="padding: 0px;">
-                        <a
-                          href="https://munchjones.com"
-                          style="text-decoration: none; color: rgb(154, 154, 154); font-size: 12px;"
-                        >
-                          <span>munchjones.com</span>
-                        </a>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-    </tr>
-  </tbody>
+<table style="vertical-align: -webkit-baseline-middle; font-family: 'Proxima Nova'; width: 611px;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 323px;">
+<td style="height: 323px; width: 550px;">
+<table style="vertical-align: -webkit-baseline-middle; font-family: 'Proxima Nova'; width: 611px;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 293px;">
+<td style="width: 20px; height: 293px;">&nbsp;</td>
+<td style="padding: 0px; vertical-align: middle; width: 585px; height: 293px;">
+<h3 style="margin: 0px; font-size: 20px; color: #1a1a1a;">Liwei Zhao</h3>
+<p style="margin: 0px; color: #1a1a1a; font-size: 12px; line-height: 22px;">Senior HR Manager</p>
+<table style="vertical-align: -webkit-baseline-middle; font-family: 'Proxima Nova'; width: 99.2771%;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 100%; height: 18px;">&nbsp;</td>
+</tr>
+<tr style="height: 63px;">
+<td style="width: 100%; height: 63px;">
+<table style="vertical-align: -webkit-baseline-middle; font-family: 'Proxima Nova'; display: inline-block; width: 439.413px;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="text-align: margin-left;">
+<td style="width: 587px;">
+<div style="margin-left: 0px; margin-right: 5px;"><img style="display: inline-block;" src="https://github.com/lwzhao90/Email-Signature/blob/main/Optiopay-full-logo-original-2021.png?raw=true" height="35" />
+<p style="margin: 0px; color: #1a1a1a; font-size: 12px; line-height: 22px;">Unlock the potential of Open Data and start a Platform with us!</p>
+<p style="margin: 0px; color: #1a1a1a; font-size: 12px; line-height: 22px;">&nbsp;</p>
+</div>
+</td>
+<td style="width: 10px;">&nbsp;</td>
+<td style="width: 42.4125px;">&nbsp;</td>
+</tr>
+</tbody>
 </table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="vertical-align: -webkit-baseline-middle; ; font-family: Proxima Nova;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="vertical-align: middle;">
+<td style="width: 30; vertical-align: middle;"><span style="display: block;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/lwzhao90/Email-Signature/blob/main/envelope_ci.png?raw=true" height="10" /></span></td>
+<td style="color: #622aff; font-size: 12px;"><a>liwei.zhao@optiopay.com</a></td>
+</tr>
+<tr style="vertical-align: middle;">
+<td style="width: 30; vertical-align: middle;">
+<table style="margin: 0 auto; vertical-align: -webkit-baseline-middle; ; font-family: Proxima Nova;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="vertical-align: bottom;"><span style="display: block;"> <img style="display: inline-block;" src="https://github.com/lwzhao90/Email-Signature/blob/main/phone_ci.png?raw=true" height="15" /> </span></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding: 0px; color: #9a9a9a;"><a style="text-decoration: none; color: #622aff; font-size: 12px;"> +44 07434864952 </a></td>
+</tr>
+<tr style="vertical-align: middle;">
+<td style="vertical-align: middle;" width="30">
+<table style="margin: 0 auto; vertical-align: -webkit-baseline-middle; ; font-family: Proxima Nova;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="vertical-align: bottom;"><span style="display: block;"> <img style="display: inline-block;" src="https://github.com/lwzhao90/Email-Signature/blob/main/envelope_ci.png?raw=true" height="10" /> </span></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding: 0px;"><a style="color: #622aff; font-size: 12px;"> liwei.zhao@optiopay.com </a></td>
+</tr>
+<tr style="vertical-align: middle;">
+<td style="vertical-align: middle;" width="30">
+<table style="margin: 0 auto; vertical-align: -webkit-baseline-middle; ; font-family: Proxima Nova;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="vertical-align: bottom;"><span style="display: block;"> <img style="display: inline-block; float: left;" src="https://github.com/lwzhao90/Email-Signature/blob/main/globe_ci.png?raw=true" height="15" /> </span></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding: 0px;"><a style="text-decoration: none; color: #622aff; font-size: 12px;"> optiopay.com </a></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 85.1875px;">
+<tbody>
+<tr>
+<td style="width: 76.1875px;"><hr /></td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td style="padding: 0px;"><a style="text-decoration: none; color: #808080; font-size: 10px;">OptioPay GmbH - An den Treptowers 1, 12435 Berlin</a></td>
+</tr>
+<tr>
+<td style="padding: 0px;"><a style="text-decoration: none; color: #808080; font-size: 10px;">Sitz und Registergericht: Amtsgericht Charlottenburg HRB 161960 B | Gesh&auml;ftsf&uuml;er: Marcus B&ouml;rner, Oliver Oster</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
